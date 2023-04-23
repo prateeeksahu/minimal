@@ -1,4 +1,6 @@
-
+*{
+    padding-top: 5px;
+}
 body {
 	background-color: #272727;
 	color: #fff;
@@ -9,7 +11,7 @@ body {
 
 ul {
 	list-style: none;
-	padding: 0;
+	padding: 5px;
 	margin: 0;
 
 }
@@ -36,4 +38,8 @@ h1 {
 
 .list-container {
     margin-bottom: 20px; /* Add a 20px margin below the "List of Topics" heading */
+}
+
+footer{
+    text-align: center;
 }
